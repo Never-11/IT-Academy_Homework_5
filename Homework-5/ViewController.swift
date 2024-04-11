@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         createView()
-        
+        print("Yes")
     }
     
     //MARK: - Flow Functions
