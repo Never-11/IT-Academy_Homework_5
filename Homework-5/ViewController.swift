@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         createView()
         
+        print("Hello world")
     }
     
     //MARK: - Flow Functions
